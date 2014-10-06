@@ -18,5 +18,5 @@ Route::get('/', function()
 
 Route::get('/practice', function()
 {
-	echo 'Hello World';
+	echo 'Hello World Test Flavio';
 });
